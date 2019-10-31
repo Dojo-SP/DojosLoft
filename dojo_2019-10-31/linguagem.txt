@@ -1,0 +1,8 @@
+Python       8 - 5 - seq 10 | shuf selecionou Python!
+JavaScript   9 - 5
+C#           3
+Shell Script 5
+Kotlin       2
+C            4
+Haskell      6
+
