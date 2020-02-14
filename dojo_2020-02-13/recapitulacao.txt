@@ -1,0 +1,34 @@
+Pontos negativos --- =(
+
+* Demora para a entrada
+* Ambiente t-SQL não funcionou
+* Demorou para iniciar
+* Muitas conversas paralelas
+* Faltou apresentar a ideia de o que é um dojo
+* Não usamos o Dose
+* Mais da metade dos confirmados não vieram
+* Demorou para discutir o problema
+* Nem todas as explicações (sobre vim e bash) foram colocadas no
+  código
+
+Pontos positivos +++ =)
+
+* Deu tempo para quem chegou atrasado pegar tudo
+* Comida teve de sobra!!!
+* Escolha da linguagem (bash)
+* Vim (++)
+* Espaço da Loft (++)
+* Teclado mecânico
+* Alguns sequer encostaram no mouse!
+* Escolha quântica da linguagem (embora tenha mudado depois)
+* Completamos o problema!
+* Primeiro dojo de muita gente (com pretensão de vir nos próximos!)
+* Galera legal!
+* Número adequado de participantes
+* roundup (TDD em bash)
+* Ninguém mandou tirar do Vim
+
+Pontos que não houve consenso se eram positivos ou negativos
+
+* Rodamos tudo no Windows com WSL2
+
