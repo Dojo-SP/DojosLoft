@@ -19,3 +19,10 @@ Repositório com o código dos dojos realizados na
     - `pytest <https://pytest.org/>`_
     - `Lâmpadas no corredor <http://dojopuzzles.com/problemas/exibe/lampadas-no-corredor/>`_
     - `MeetUp <https://www.meetup.com/pt-BR/Dojo-SP/events/265598785/>`_
+
+  * - 2
+    - `2020-02-13 <dojo_2020-02-13/>`_
+    - Shell script (bash)
+    - `roundup <https://github.com/bmizerany/roundup/>`_
+    - `Campo Minado <http://dojopuzzles.com/problemas/exibe/campo-minado/>`_
+    - `MeetUp <https://www.meetup.com/pt-BR/Dojo-SP/events/268249459/>`_
